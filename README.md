@@ -3,7 +3,7 @@
 
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://www.ravibhanawat.tech/" target="_blank">ravibhanawat.tech</a>
+  <a href="https://personality-kappa.vercel.app/" target="_blank">personality-kappa.vercel.app</a>
 </h2>
 
 
