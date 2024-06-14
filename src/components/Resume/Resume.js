@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import Resumecontent from "./ResumeContent";
-import pdf from "../../Assets/Mohit_SDE_Resume.pdf";
+
 import { AiOutlineDownload } from "react-icons/ai";
 import ReactGA from "react-ga";
 
@@ -16,10 +16,10 @@ function Resume() {
       <Particle />
       <Container>
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href={pdf} target="_blank">
+          {/* <Button variant="primary" href={pdf} target="_blank">
             <AiOutlineDownload />
             &nbsp;Download CV
-          </Button>
+          </Button> */}
         </Row>
         <Row className="resume">
           <Col md={6} className="resume-left">
@@ -78,10 +78,10 @@ function Resume() {
           </Col>
         </Row>
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href={pdf} target="_blank">
+          {/* <Button variant="primary" href={pdf} target="_blank">
             <AiOutlineDownload />
             &nbsp;Download CV
-          </Button>
+          </Button> */}
         </Row>
       </Container>
     </Container>

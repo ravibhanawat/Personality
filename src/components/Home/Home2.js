@@ -20,7 +20,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> Javascript and Next. </b>
               </i>
               <br />
               <br />
@@ -62,7 +62,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/MohitSojitra"
+                  href="https://github.com/ravibhanawat"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -73,7 +73,7 @@ function Home2() {
 
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/mohit-sojitra/"
+                  href="https://www.linkedin.com/in/ravi-bhanawat/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
