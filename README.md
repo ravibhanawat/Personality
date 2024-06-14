@@ -9,9 +9,9 @@
 
 ## Built With
 
-My personal portfolio <a href="https://www.ravibhanawat.tech/" target="_blank">ravibhanawat.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://personality-kappa.vercel.app/" target="_blank">[ravibhanawat.tech](https://personality-kappa.vercel.app/)</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-This project was built using these technologies.
+This project was built using these technologies.s
 
 - React.js
 - Node.js
